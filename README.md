@@ -28,7 +28,7 @@ have been defined including the way one can contact us. This page displayes all 
 bachelors of Technology (BTech.). The user can start by selecting the subject of which the
 material is required and then can move on to the next page.
 
-                            USER-SIDE
+                                            USER-SIDE
 ![a](https://user-images.githubusercontent.com/64221944/209800156-26946a3f-2877-48ac-a601-107ba8cfc016.png)
 
 This page shows the \year page where user can choose the concerned year in which the subject
